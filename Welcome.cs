@@ -6,3 +6,4 @@ class Welcome
 		Console.WriteLine("Welcome to Bridgelabz!");
 	}
 }
+
